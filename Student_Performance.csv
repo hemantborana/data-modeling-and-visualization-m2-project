@@ -1,0 +1,101 @@
+"StudentID","Age","Gender","ParentalEducation","StudyHours","Attendance","ExtracurricularActivities","MathScore","ReadingScore","WritingScore"
+1,17,"Male","Associate",3.9,65.9,"No",49,39,40
+2,17,"Female","High School",2.3,74.3,"No",74,56,100
+3,17,"Female","Master",6.2,86.9,"Yes",91,80,84
+4,16,"Male","Associate",1.4,81,"No",73,80,72
+5,17,"Female","Master",9.7,74,"Yes",86,70,63
+6,16,"Female","Some College",5.2,69.6,"No",46,56,61
+7,16,"Male","Associate",1.6,62.3,"No",64,89,79
+8,16,"Male","Associate",6.2,69.5,"No",83,48,58
+9,17,"Male","Associate",9.9,95.6,"Yes",78,71,66
+10,15,"Female","High School",6.7,92.5,"No",48,63,79
+11,18,"Female","Bachelor",4.2,89.9,"No",55,55,56
+12,16,"Female","Master",3.2,66.2,"No",56,74,73
+13,16,"Female","Associate",8.4,65,"No",71,59,85
+14,15,"Male","Master",1.4,99,"Yes",61,73,83
+15,16,"Male","High School",1.9,77.4,"No",73,78,76
+16,17,"Female","Some College",9,78.6,"No",57,79,45
+17,18,"Female","Some College",3.1,66.6,"Yes",68,77,66
+18,15,"Female","Bachelor",3.6,83.4,"No",79,92,58
+19,17,"Male","Master",7.8,70.8,"No",88,57,68
+20,17,"Female","Some College",1.9,69.2,"No",72,94,63
+21,15,"Male","High School",0.2,87.6,"No",56,65,45
+22,18,"Female","Associate",4.1,71.3,"No",60,61,70
+23,15,"Male","Bachelor",4.8,92.4,"Yes",75,82,51
+24,15,"Male","Associate",4.2,63.8,"No",54,74,55
+25,15,"Male","Some College",3.4,92.9,"Yes",73,82,81
+26,17,"Female","Some College",8.7,77.1,"No",50,68,75
+27,18,"Female","Some College",4.6,90.2,"Yes",64,84,59
+28,16,"Male","Some College",5.3,86.5,"Yes",60,73,79
+29,17,"Male","High School",9.6,77.8,"No",86,75,80
+30,16,"Male","Bachelor",7.7,85.1,"Yes",75,72,72
+31,15,"Female","High School",2.1,60,"No",65,90,92
+32,16,"Male","Bachelor",3.1,68.7,"No",67,51,77
+33,17,"Female","Some College",9.7,88.2,"Yes",71,49,84
+34,18,"Female","Some College",5.8,68.6,"Yes",79,75,67
+35,16,"Female","High School",7.6,92.6,"No",66,96,61
+36,15,"Female","Bachelor",3.7,72.3,"Yes",30,73,93
+37,17,"Female","Some College",7.7,87.5,"Yes",51,65,73
+38,17,"Female","Associate",5.4,97.3,"No",79,48,59
+39,15,"Female","Bachelor",9.1,64.6,"Yes",87,87,64
+40,18,"Male","Bachelor",1.9,65.1,"Yes",80,79,49
+41,17,"Female","Master",2.8,87.1,"No",74,74,73
+42,18,"Female","High School",0.9,77.2,"No",40,83,73
+43,16,"Female","High School",2.1,93.4,"Yes",87,60,84
+44,15,"Male","Some College",9.8,98.9,"Yes",92,75,73
+45,17,"Female","Some College",3,62.8,"No",63,58,81
+46,15,"Female","Master",7.3,78.4,"Yes",100,88,63
+47,15,"Female","Bachelor",7.9,88.1,"No",24,44,62
+48,16,"Male","Some College",1.1,63.5,"Yes",54,72,68
+49,17,"Female","Some College",2.4,99.7,"No",74,69,95
+50,17,"Female","Master",2.7,70.1,"Yes",71,58,68
+51,18,"Male","Master",1,62,"Yes",48,66,76
+52,15,"Female","High School",1.2,87.5,"No",94,65,56
+53,17,"Male","Associate",9.9,91.5,"No",60,58,75
+54,15,"Female","Bachelor",9.9,74.1,"No",48,48,91
+55,17,"Male","High School",1.4,74.7,"No",70,97,66
+56,18,"Male","Bachelor",9.1,71.5,"No",88,50,86
+57,16,"Male","Associate",5.8,63.2,"Yes",58,69,60
+58,15,"Male","Some College",4,74.6,"Yes",59,70,60
+59,16,"Male","High School",4.5,67.1,"Yes",69,57,61
+60,15,"Male","High School",7.1,81.4,"Yes",54,74,51
+61,15,"Male","High School",0.8,80.2,"No",67,55,63
+62,18,"Female","Some College",3.4,97.8,"Yes",76,71,98
+63,18,"Female","Master",6.8,73.7,"No",83,48,68
+64,17,"Female","High School",3.2,78.6,"Yes",83,63,90
+65,15,"Male","Bachelor",8.3,63.3,"Yes",60,77,73
+66,16,"Female","Bachelor",2.2,94.4,"No",66,38,67
+67,15,"Male","High School",5,75.8,"Yes",83,69,76
+68,15,"Male","Bachelor",2.8,89.4,"No",84,80,60
+69,17,"Female","High School",1.9,66.9,"No",76,77,87
+70,15,"Male","Some College",9.5,78.2,"No",69,82,56
+71,16,"Female","Bachelor",3.2,90.8,"Yes",39,58,82
+72,15,"Female","Master",4.8,62.5,"No",91,70,74
+73,17,"Female","Some College",0.3,92.6,"No",72,61,73
+74,15,"Female","Associate",5.5,72,"No",70,68,81
+75,17,"Male","Some College",6.4,74.6,"No",66,85,59
+76,16,"Male","Bachelor",6,72.5,"No",61,68,54
+77,18,"Male","High School",3.2,61.5,"No",60,55,67
+78,17,"Female","Associate",8.9,80.8,"No",65,75,88
+79,18,"Female","Bachelor",6.3,87.2,"Yes",45,87,79
+80,18,"Female","Some College",3,96.1,"Yes",98,71,100
+81,16,"Female","High School",3.9,61,"Yes",69,64,57
+82,16,"Male","Some College",1.6,99.6,"Yes",77,70,72
+83,17,"Male","High School",8.6,72.1,"Yes",78,66,100
+84,18,"Male","Associate",9.5,97.6,"Yes",88,72,71
+85,16,"Male","Master",5.6,87.5,"No",54,83,83
+86,16,"Female","High School",3.3,77.9,"Yes",53,77,83
+87,17,"Female","High School",10,92.7,"No",72,64,94
+88,17,"Male","Bachelor",2.3,61.6,"Yes",63,83,72
+89,18,"Male","Associate",6.1,89.6,"Yes",100,68,88
+90,15,"Female","Bachelor",1.1,73.9,"Yes",48,65,47
+91,16,"Female","High School",4.9,93.2,"No",46,70,60
+92,16,"Male","Some College",1,81.4,"No",79,74,72
+93,15,"Male","Some College",1.6,71,"No",81,74,63
+94,16,"Female","High School",2.8,92,"No",79,56,74
+95,18,"Female","High School",5.8,63.7,"No",73,74,47
+96,15,"Male","Some College",7.3,93.3,"Yes",76,74,78
+97,15,"Male","Some College",1.7,71.1,"No",51,70,64
+98,16,"Female","Bachelor",8.7,90.1,"No",79,80,65
+99,17,"Male","Bachelor",7.1,98.6,"Yes",52,73,69
+100,17,"Female","Some College",7.6,63.3,"Yes",60,52,63
